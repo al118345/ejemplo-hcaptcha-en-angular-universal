@@ -1,5 +1,9 @@
 # HCaptchaEjemplo
 
+Ejemplo de instalación de HCaptcha en Angular Universal.  Para más información visita la web https://1938.com.es/instalacion-hcaptcha
+
+
+#Información básica de Angular.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
 
 ## Development server
